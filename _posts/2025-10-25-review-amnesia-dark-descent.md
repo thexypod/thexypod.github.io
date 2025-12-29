@@ -4,7 +4,8 @@ tags: [classic-horror, psychological-horror, indie]
 layout: post
 author: Xy
 type: Review
-title: Amnesia: The Dark Descent
+title: "Amnesia: The Dark Descent"
+image: 'images/posts/2025-10-25-review-amnesia-dark-descent/hero.webp'
 featured: false
 ---
 
@@ -25,7 +26,6 @@ And here's the best part; you have a sanity level that affected by supernatural 
 ---
 
 ## Gameplay & Mechanics  
-*(Systems, Flow, Tension, Challenge)*
 
 I have a lot of good to say about the game, but with every game there were definitely some problems. There was one issue with an element of the game that occurred a handful of times.
 
