@@ -1,0 +1,17 @@
+.spoiler {
+  background-color: #000;
+  color: transparent;
+  border-radius: 4px;
+  padding: 0.1em 0.25em;
+  cursor: pointer;
+  user-select: none;
+}
+
+.spoiler::selection {
+  background: none;
+}
+
+.spoiler[aria-expanded="true"] {
+  background-color: transparent;
+  color: inherit;
+}

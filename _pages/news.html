@@ -1,0 +1,28 @@
+---
+layout: page
+title: News
+permalink: /news/
+image: '/images/hero/hero-news.webp'
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="archive-box">
+        {% assign news_posts = site.posts | where: "type", "News" %}
+        <span class="archive-meta">
+          {{ news_posts.size }} {% if news_posts.size < 2 %}post{% else %}posts{% endif %}
+        </span>
+        <h1 class="archive-title">News</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container animate">
+  <div class="row">
+    {% for post in news_posts %}
+      {% include article-content.html %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,28 @@
+---
+layout: page
+title: Reviews
+permalink: /reviews/
+image: '/images/hero/hero-reviews.webp'
+---
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="archive-box">
+        {% assign reviews = site.posts | where: "type", "Review" %}
+        <span class="archive-meta">
+          {{ reviews.size }} {% if reviews.size < 2 %}post{% else %}posts{% endif %}
+        </span>
+        <h1 class="archive-title">Reviews</h1>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container animate">
+  <div class="row">
+    {% for post in reviews %}
+      {% include article-content.html %}
+    {% endfor %}
+  </div>
+</div>

@@ -1,0 +1,85 @@
+$burger-color: #820009;
+$icon-size: 48px;
+$line-width: 6px;
+
+.nav-toggle {
+  width: $icon-size;
+  height: $icon-size;
+  position: relative;
+  z-index: 101;
+  cursor: pointer;
+
+  svg {
+    width: $icon-size;
+    height: $icon-size;
+    position: absolute;
+    left: 0;
+  }
+
+  .line {
+    z-index: 101;
+    fill: none;
+    stroke: $burger-color;
+    stroke-width: $line-width;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transform-origin: 50%;
+    transition: 
+      stroke-dasharray 500ms 200ms,
+      stroke-dashoffset 500ms 200ms,
+      transform 500ms 200ms;
+    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.4));
+  }
+
+  .x {
+    transform: scale(0);
+    transition: transform 400ms;
+
+    .line {
+      stroke-width: $line-width - 0.5;
+    }
+  }
+
+  /* ---------- STYLE 7 VARIANT ---------- */
+  &.style7 {
+    .line {
+      transition: 
+        stroke-dasharray 400ms 100ms,
+        stroke-dashoffset 400ms 100ms,
+        transform 400ms 100ms;
+    }
+
+    .line1 { stroke-dasharray: 21 102; }
+    .line2 { stroke-dasharray: 21 92; }
+    .line3 { stroke-dasharray: 21 97; }
+    .line4 { stroke-dasharray: 21 97; }
+    .line5 { stroke-dasharray: 21 92; }
+    .line6 { stroke-dasharray: 21 102; }
+
+    .x {
+      transition: transform 400ms 50ms;
+    }
+
+    /* Active State */
+    &.active {
+      .line {
+        transition:
+          stroke-dasharray 400ms,
+          stroke-dashoffset 400ms,
+          transform 400ms;
+      }
+
+      .line1 { stroke-dasharray: 2 102; stroke-dashoffset: -102px; }
+      .line2 { stroke-dasharray: 2 92; stroke-dashoffset: -92px; }
+      .line3 { stroke-dasharray: 2 97; stroke-dashoffset: -97px; transition-delay: 20ms; }
+      .line4 { stroke-dasharray: 2 97; stroke-dashoffset: -97px; transition-delay: 20ms; }
+      .line5 { stroke-dasharray: 2 92; stroke-dashoffset: -90px; transition-delay: 40ms; }
+      .line6 { stroke-dasharray: 2 102; stroke-dashoffset: -100px; transition-delay: 40ms; }
+
+      .x {
+        transform: scale(1);
+        transition: transform 400ms 50ms;
+      }
+    }
+  }
+}
