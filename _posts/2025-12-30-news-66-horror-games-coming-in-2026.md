@@ -1,6 +1,6 @@
 ---
-date: 2025-12-29
-tags: [upcoming, list, '2026']
+date: 2025-12-30
+tags: [upcoming, list, '2026', AAA, indie]
 layout: post
 author: Xy
 type: News

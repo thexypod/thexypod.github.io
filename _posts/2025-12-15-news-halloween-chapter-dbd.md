@@ -1,6 +1,6 @@
 ---
 date: 2025-10-18
-tags: [dead-by-daylight, asymmetrical, halloween]
+tags: [DbD, asymmetrical, DLC, opinion]
 layout: post
 author: Xy
 type: News

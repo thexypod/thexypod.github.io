@@ -10,6 +10,10 @@ image: 'images/posts/2025-12-20-review-unmourned/hero.webp'
 featured: false
 ---
 
+{: .note }
+This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
+[Livestream (2025/12/20)](https://www.youtube.com/live/DO5T4G7fsKQ?si=b6Zqg-IWJLMDPQa2)
+
 Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”, bought it and played through it in one sitting. If you have the opportunity to do the same for any horror game, I highly recommend it. Horror trailers are notorious for putting some of their most tense moments leading to a spoiled jumpscare every so often. For my play-through, I was always anticipating the next event and it adds so much more to the tension. 
 
 ## Overview

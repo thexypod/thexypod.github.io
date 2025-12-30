@@ -1,15 +1,19 @@
 ---
 date: 2025-10-18
-tags: [retro-style, christmas, indie]
+tags: [stalker, retro, christmas, indie]
 layout: post
 author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Tattletail
-image: 'images/posts/2025-10-18-review-tattletail/hero.jpg'
+image: 'images/posts/2025-10-18-review-tattletail/hero.webp'
 readtime: 4 min read
 featured: true
 ---
+
+{: .note }
+This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
+[Livestream (2025/11/18)](https://www.youtube.com/live/Qo1xtalR4kk?si=NEgqg04dZ4jY8YWP)
 
 You might look at a game like **Tattletail** and think there’s nothing to it. On the surface, it’s a cute, retro-styled horror game riffing on the old Furby craze from the late 90s. But beneath that neon plastic smile is a dark, surprisingly sinister underbelly—packed with Easter eggs… both the narrative kind and the literal kind.
 
