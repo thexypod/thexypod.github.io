@@ -1,5 +1,5 @@
 ---
-date: 2025-10-18
+date: 2025-12-20
 tags: [ghosts, paranormal, haunting, indie]
 layout: post
 author: Xy
