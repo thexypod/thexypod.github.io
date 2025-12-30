@@ -1,9 +1,32 @@
 ---
-layout: page
+layout: default
 title: News
 permalink: /news/
 image: '/images/hero/hero-news.webp'
 ---
+
+<!-- begin hero -->
+{% if page.image %}
+<section class="hero">
+  <div class="hero__inner">
+    <div class="hero__image">
+      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+    </div>
+    <div class="hero__content">
+      <h1 class="hero__title">{{ page.title }}</h1>
+    </div>
+  </div>
+</section>
+{% else %}
+<section class="hero-without-image">
+  <div class="hero-inner">
+    <div class="hero-content">
+      <h1 class="hero__title">{{ page.title }}</h1>
+    </div>
+  </div>
+</section>
+{% endif %}
+<!-- begin hero -->
 
 <div class="container">
   <div class="row">
@@ -13,7 +36,6 @@ image: '/images/hero/hero-news.webp'
         <span class="archive-meta">
           {{ news_posts.size }} {% if news_posts.size < 2 %}post{% else %}posts{% endif %}
         </span>
-        <h1 class="archive-title">News</h1>
       </div>
     </div>
   </div>
