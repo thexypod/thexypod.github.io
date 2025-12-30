@@ -25,7 +25,7 @@ And here's the best part; you have a sanity level that affected by supernatural 
 
 ---
 
-## Gameplay & Mechanics  
+## Gameplay & Mechanics
 
 I have a lot of good to say about the game, but with every game there were definitely some problems. There was one issue with an element of the game that occurred a handful of times.
 

@@ -1,6 +1,6 @@
 ---
 date: 2025-10-18
-tags: [Dead By Daylight, Asymmetrical, Halloween]
+tags: [dead-by-daylight, asymmetrical, halloween]
 layout: post
 author: Xy
 type: News

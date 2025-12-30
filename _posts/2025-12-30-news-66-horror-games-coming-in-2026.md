@@ -1,5 +1,5 @@
 ---
-date: 2025-10-18
+date: 2025-12-29
 tags: [upcoming, list, '2026']
 layout: post
 author: Xy
@@ -21,7 +21,7 @@ Hello and welcome! I’m Xy, and this is a hand-picked look at upcoming horror g
 > There’s no ranking here, and no particular order… But at least that’ll keep you on your toes, right? That’s what we like as horror gamers, isn’t it? If you’re hunting for the next wave of titles that’ll keep you up at night… you’re in the right place.
 
 ## La Divina Commedia
-I probably completely butchered that title, but I did my due diligence and looked up the pronunciation of it and tried my best. Developed and published by Jyamma Games, the synopsis is as follows; Breach the depths of hell and battle demonic forces as a warrior poet who has been lured into and trapped within the underworld. It's a Dark Fantasy ARPG inspired by the famous masterpiece opera of Dante Alighieri. The Game presents itself as a souls like game with the trailer showing a battle between the main character and a demon. Makes me remember Dante's Inferno which was released for the Playstation 3 back in 2010. Hell is always terrifying in movies and books, and while the trailer keeps things pretty vague, it still suggests there’s a ton of room for some really unsettling imagery. The sky’s the limit... or in this case, the underworld is—when it comes to the sites this game might show us. While no exact release date has been set, there's a good chance it will be out some time in 2026 on all platforms.
+Developed and published by Jyamma Games, the synopsis is as follows; Breach the depths of hell and battle demonic forces as a warrior poet who has been lured into and trapped within the underworld. It's a Dark Fantasy ARPG inspired by the famous masterpiece opera of Dante Alighieri. The Game presents itself as a souls like game with the trailer showing a battle between the main character and a demon. Makes me remember Dante's Inferno which was released for the Playstation 3 back in 2010. Hell is always terrifying in movies and books, and while the trailer keeps things pretty vague, it still suggests there’s a ton of room for some really unsettling imagery. The sky’s the limit... or in this case, the underworld is—when it comes to the sites this game might show us. While no exact release date has been set, there's a good chance it will be out some time in 2026 on all platforms.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nn43FTweX-s?si=C6bxAFeI5liL0L4v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ I probably completely butchered that title, but I did my due diligence and looke
 ---
 
 ## Animal Use Protocol
-Out of every title on this list, I can't think of one with a concept as original as Animal Use Protocol. This first chimp survival horror has you in the place of Penn, a hyper intelligent chimpanzee leading the desperate escape of lab animals from a nightmarish facility. This title is able to cut the tension as you have a rat companion named Trip who talks to you through a thought-to-speech generator. This leads to some unconventional, but funny dialog. (play run clip) This game looks like what Half Life would be if Gordon Freeman was the science experiment. This premise leaves the door wide open for some wild enemy and boss encounters. Definitely one to watch out for. Developed and published by “The Brotherhood” It’s scheduled for release in 2026 with no specific day or month listed, but it is set to launch on PC, with potential releases for Xbox, PlayStation, and Nintendo Switch. 
+Out of every title on this list, I can't think of one with a concept as original as Animal Use Protocol. This first chimp survival horror has you in the place of Penn, a hyper intelligent chimpanzee leading the desperate escape of lab animals from a nightmarish facility. This title is able to cut the tension as you have a rat companion named Trip who talks to you through a thought-to-speech generator. This leads to some unconventional, but funny dialog. (play run clip) This game looks like what Half Life would be if Gordon Freeman was the science experiment. This premise leaves the door wide open for some wild enemy and boss encounters. Definitely one to watch out for. Developed and published by “The Brotherhood” It’s scheduled for release in 2026 with no specific day or month listed, but it is set to launch on PC, with potential releases for Xbox, PlayStation, and Nintendo Switch.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p3Q7MZGqO3o?si=OgP-m6wEP4p9tX1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

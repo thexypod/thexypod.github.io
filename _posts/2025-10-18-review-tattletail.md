@@ -1,6 +1,6 @@
 ---
 date: 2025-10-18
-tags: [retro-style, christmas, toy, indie]
+tags: [retro-style, christmas, indie]
 layout: post
 author: Xy
 type: Review
