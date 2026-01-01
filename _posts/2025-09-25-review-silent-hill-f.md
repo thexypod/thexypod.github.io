@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Silent Hill f
+description: I think we were all waiting with bated breath for this one. The trailer was dropped with Konami’s Silent Hill Transmission, back in October of 2022, which was when they announced that they were reviving the franchise...
 image: 'images/posts/2025-09-25-review-silent-hill-f/hero.webp'
 featured: false
 ---

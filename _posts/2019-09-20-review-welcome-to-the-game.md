@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Welcome To The Game
+description: I'm all for ambiguity in Horror games. This one misses the mark by not clearly explaining what the rules actually are. You really need to figure out pretty much all of the mechanics on your own...
 image: 'images/posts/2019-09-20-review-welcome-to-the-game/hero.webp'
 featured: false
 ---

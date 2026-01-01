@@ -4,7 +4,8 @@ tags: [upcoming, list, '2026', AAA, indie]
 layout: post
 author: Xy
 type: News
-title: 66 Horror Games Coming Out In 2026 & Beyond
+title: 66+ Horror Games Coming Out In 2026 & Beyond
+description: A hand-picked look at upcoming horror games for 2026 and beyond. From big-budget AAA releases to indie horror passion projects these are the games that genuinely caught my attention.
 image:  '/images/posts/2025-12-30-news-66-horror-games-coming-in-2026/hero.webp'
 featured: true
 ---
@@ -106,7 +107,7 @@ If you’ve never heard of the BrokenLore series, don’t worry… I hadn’t ei
 ---
 
 ## Grave Seasons
-So have you ever been playing Stardew Valley and thought, this could use a bunch of murder and violence? Me too! (show pierre) Enter Grave Seasons. On the surface, it's a cute farming sim with a wide variety of characters and a large town to explore. However, you're playing as an escaped convict... Oh and also, there is something or someone in the town that is killing its inhabitants. It'll be interesting to see how these two genres interact. Pixel art retro style with an isometric view, this game aims to please the horror enthusiast who enjoys a bit of farming Sim every now and again. Does that sound like you? Grave Seasons is developed by Perfect Garbage and published by Blumhouse Games and is scheduled for release in 2026 for PC, PlayStation 5, Xbox Series X/S, and Nintendo Switch.
+So have you ever been playing Stardew Valley and thought, this could use a bunch of murder and violence? Me too! (I see you [/r/fuckpierre](http://reddit.com/r/fuckpierre)) Enter Grave Seasons. On the surface, it's a cute farming sim with a wide variety of characters and a large town to explore. However, you're playing as an escaped convict... Oh and also, there is something or someone in the town that is killing its inhabitants. It'll be interesting to see how these two genres interact. Pixel art retro style with an isometric view, this game aims to please the horror enthusiast who enjoys a bit of farming Sim every now and again. Does that sound like you? Grave Seasons is developed by Perfect Garbage and published by Blumhouse Games and is scheduled for release in 2026 for PC, PlayStation 5, Xbox Series X/S, and Nintendo Switch.
 
 <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/7Gj9vincgw4?si=zOMsTQQItdqr7Bc6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -265,7 +266,9 @@ If you're into horror gaming, surely over the last year or so ILL has popped int
 ---
 
 ## Blight: Survival
-Medieval Zombies. Alright, pack it up. [cut to black as though to end this segment] What, you need more?? Because that was all I needed to be excited for this title. What an original concept. Blight: Survival is a PvE Action-Horror Game set in a brutal medieval world. Play solo or team-up with up to 3 friends as you face monsters and men in a tense battle for survival. How far are you willing to go? There is no confirmed release date for Blight: Survival at this time; the developers, Haenir Studio, have stated it is too early to tell, and a realistic release is likely no sooner than 2027. It’s published by Behaviour Interactive, the makers of Dead By Daylight. Initial development plans have changed, and the game is still in progress. It is expected to launch first on PC, followed by releases on PS5 and Xbox Series. 
+Medieval Zombies. Alright, pack it up.
+
+ What, you need more?? Because that was all I needed to be excited for this title. What an original concept. Blight: Survival is a PvE Action-Horror Game set in a brutal medieval world. Play solo or team-up with up to 3 friends as you face monsters and men in a tense battle for survival. How far are you willing to go? There is no confirmed release date for Blight: Survival at this time; the developers, Haenir Studio, have stated it is too early to tell, and a realistic release is likely no sooner than 2027. It’s published by Behaviour Interactive, the makers of Dead By Daylight. Initial development plans have changed, and the game is still in progress. It is expected to launch first on PC, followed by releases on PS5 and Xbox Series. 
 
 <iframe width="560" height="315" loading="lazy" src="https://www.youtube.com/embed/ZCvOszATXPw?si=IPnf0x23Kawl4viT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

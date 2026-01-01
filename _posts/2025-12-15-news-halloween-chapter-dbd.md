@@ -5,6 +5,7 @@ layout: post
 author: Xy
 type: News
 title: Halloween Chapter To Be Removed From Dead By Daylight
+description: Behavior Interactive just announced that the Halloween DLC will be removed from the in-game purchase and store fronts...
 image:  '/images/posts/2025-12-15-news-halloween-chapter-dbd/hero.webp'
 readtime: 4 min read
 featured: true

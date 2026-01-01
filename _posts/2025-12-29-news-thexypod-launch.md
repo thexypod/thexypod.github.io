@@ -5,6 +5,7 @@ layout: post
 author: Xy
 type: News
 title: TheXyPod.com Has Launched!
+description: Well, this has been a long time coming, and now we're finally here. I'm excited to launch the all new 100% Horror game site TheXyPod.com...
 image:  '/images/posts/2025-12-29-news-thexypod-launch/hero.webp'
 featured: true
 ---

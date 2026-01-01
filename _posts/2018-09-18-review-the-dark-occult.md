@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: The Dark Occult
+description: Coming from Rym Games, a small outfit from Morocco, it succeeds in bringing true paranormal scares and atmosphere. It plays a bit like Outlast mixed with Fatal Frame and maybe even a bit of Silent Hill...
 image: 'images/posts/2018-10-11-review-the-dark-occult/hero.webp'
 featured: false
 ---

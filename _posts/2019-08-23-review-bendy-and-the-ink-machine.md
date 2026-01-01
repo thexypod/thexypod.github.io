@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Bendy And The Ink Machine
+description: When I first started playing my initial thought was that it looks like a low key Borderlands style walking sim. The further I got you really start to appreciate the charm of the art style...
 image: 'images/posts/2019-08-23-review-bendy-and-the-ink-machine/hero.webp'
 featured: false
 ---

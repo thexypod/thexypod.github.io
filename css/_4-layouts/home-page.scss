@@ -71,7 +71,7 @@
 
 .article__excerpt {
   margin-bottom: 12px;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 17px;
   color: $gray;
   @media (max-width: $mobile) {
@@ -127,6 +127,11 @@
 .article__meta {
   line-height: 12px;
 
+  .article__type {
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
   .article__date,
   .article__minutes {
     font-size: 12px;
@@ -136,6 +141,7 @@
 
   .article__date {
     color: $gray;
+    display: block;
   }
 }
 

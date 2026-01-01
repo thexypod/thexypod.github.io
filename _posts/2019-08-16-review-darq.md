@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Darq
+description: Very reminiscent of Inside or Limbo! The mechanics are simple enough to understand and are introduced in a way that helps navigate the game throughout...
 image: 'images/posts/2018-08-16-review-darq/hero.webp'
 featured: false
 ---

@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Unmourned
+description: Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”...
 image: 'images/posts/2025-12-20-review-unmourned/hero.webp'
 featured: false
 ---

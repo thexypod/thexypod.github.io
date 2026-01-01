@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Lost In Vivo
+description: This showed up in my queue and seeing as it had "overwhelmingly positive" reviews at the time, I checked it out on a whim. I'm a big Silent Hill fan so the first thing I noticed was the similarities in the trailer...
 image: 'images/posts/2019-01-04-review-lost-in-vivo/hero.webp'
 featured: false
 ---

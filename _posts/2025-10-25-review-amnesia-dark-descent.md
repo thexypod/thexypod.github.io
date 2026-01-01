@@ -5,6 +5,7 @@ layout: post
 author: Xy
 type: Review
 title: "Amnesia: The Dark Descent"
+description: If you're at all into horror, you have likely already heard of amnesia the dark decent. It's sold over 1 million copies since it's release and has since been released on multiple platforms...
 image: 'images/posts/2025-10-25-review-amnesia-dark-descent/hero.webp'
 featured: false
 ---

@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Blair Witch
+description: Let me start out this review by saying I am a Blair Witch fan through and through. I loved the movies, I took part in the ARG that was initially released. I was excited for this game...
 image: 'images/posts/2019-11-19-review-blair-witch/hero.webp'
 featured: false
 ---

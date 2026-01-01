@@ -7,6 +7,7 @@ type: Review
 playtime-at-review: 5.0 hours
 platform: steam
 title: Pacify
+description: When you get Pacify, you're not getting in to a massive story line with heaps of objectives and hours upon hours of game play. It's simple at its core and designed to scare the shit out of you...
 image: 'images/posts/2019-02-27-review-pacify/hero.webp'
 featured: false
 ---

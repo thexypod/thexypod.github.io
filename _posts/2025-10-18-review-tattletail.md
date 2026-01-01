@@ -6,9 +6,10 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Tattletail
+description: You might look at a game like Tattletail and think there’s nothing to it. On the surface, it’s a cute, retro-styled horror game riffing on the old Furby craze from the late 90s...
 image: 'images/posts/2025-10-18-review-tattletail/hero.webp'
 readtime: 4 min read
-featured: true
+featured: false
 ---
 
 {: .note }

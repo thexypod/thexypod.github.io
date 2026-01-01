@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 title: Home Sweet Home (Episode 1)
+description: Home Sweet Home is a fairly standard horror walking sim. It stands out by having some solid stealth mechanics that lead to some seriously tense moments within an atmosphere full of dread...
 image: 'images/posts/2019-09-27-review-home-sweet-home/hero.webp'
 featured: false
 ---
