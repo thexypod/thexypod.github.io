@@ -22,6 +22,8 @@ defaults:
     values:
       permalink: /:basename:output_ext
 
+url: "https://thexypod.com"
+
 include:
   - _pages
 
