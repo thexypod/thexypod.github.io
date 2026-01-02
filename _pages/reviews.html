@@ -10,7 +10,7 @@ image: '/images/hero/hero-reviews.webp'
 <section class="hero">
   <div class="hero__inner">
     <div class="hero__image">
-      <img class="lazy" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
+      <img class="lazy" fetchpriority="high" data-src="{{ page.image | relative_url }}" alt="{{ page.title }}">
     </div>
     <div class="hero__content">
       <h1 class="hero__title">{{ page.title }}</h1>
