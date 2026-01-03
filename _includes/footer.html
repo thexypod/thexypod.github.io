@@ -15,21 +15,20 @@
   <div class="container">
     <div class="row">
       <div class="col col-12">
-              <nav class="footer__nav">
+        {% include social-links.html %}
+        <nav class="footer__nav">
         <ul>
           <li><a href="{{ '/' | relative_url }}">Home</a></li>
           <li><a href="{{ '/about/' | relative_url }}">About</a></li>
           <li><a href="{{ '/news/' | relative_url }}">News</a></li>
           <li><a href="{{ '/reviews/' | relative_url }}">Reviews</a></li>
           <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-          <li><a href="{{ '/fine-print/' | relative_url }}">Fine Print</a></li>
         </ul>
       </nav>
       <div class="footer__inner">
         <div class="title"><a href="/">{{ site.data.settings.title }}</a></div>
         <div class="copyright">
-          <p>{{ site.time | date: '%Y' }} &copy; TheXyPod</p>
-        {% include social-links.html %}
+          <span>{{ site.time | date: '%Y' }} &copy; TheXyPod • <a href="{{ '/fine-print/' | relative_url }}">Fine Print & Privacy Policy</a></span>
         </div>
       </div>
     </div>

@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: TheXyPod | Horror Game Reviews, News & Upcoming Releases
+title: TheXyPod • Horror Game Reviews, News & Upcoming Releases
 logo: '/images/logo.svg'
-description: Horror game streams, reviews, news, and upcoming releases. Discover the best indie and AAA horror games, trailers, and updates.
+description: Horror game discussions, streams, reviews, news, and upcoming releases. Discover the best indie and AAA horror games, trailers, and updates.
 
 
 #-------------------------------
@@ -72,6 +72,6 @@ google-analytics: G-BXZ9NPZ4YR
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp: disable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
 mailchimp-button-text: Join
