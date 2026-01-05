@@ -4,7 +4,13 @@ tags: [surreal, animated, indie]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
+playtime-at-review: 5.1 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/"
+    Playstation: "https://store.playstation.com/en-ca/product/UP2344-CUSA13637_00-MDKRTGAMES4BATIM"
+    Xbox: "https://www.xbox.com/en-CA/games/store/bendy-and-the-ink-machine/BTQ96QTQ58F3"
+    Nintendo: "https://www.nintendo.com/en-ca/store/products/bendy-and-the-ink-machine-switch/"
 title: Bendy And The Ink Machine
 description: When I first started playing my initial thought was that it looks like a low key Borderlands style walking sim. The further I got you really start to appreciate the charm of the art style...
 image: 'images/posts/2019-08-23-review-bendy-and-the-ink-machine/hero.webp'
@@ -23,4 +29,4 @@ One thing that really bugged me about the game was the combat... it's pretty bad
 
 This game has been out long enough that it goes on sale fairly regularly. I'd wait for a sale if you can. Once you get it, I don't think you'll regret it! I certainly don't!
 
-3.5/5
+**Score: 4.5/6**

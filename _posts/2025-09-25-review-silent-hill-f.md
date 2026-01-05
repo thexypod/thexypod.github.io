@@ -1,11 +1,19 @@
 ---
 date: 2025-09-25
-tags: [silent-hill, AAA]
+tags: [silent-hill, psychological, female-protagonist, AAA]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
+playtime-at-review: 10 hours
+platform-played-on: Playstation 5
+platforms:
+    Steam: "https://store.steampowered.com/app/2947440/SILENT_HILL_f/"
+    Playstation: "https://www.playstation.com/en-ca/games/silent-hill-f/"
+    Xbox: "https://www.xbox.com/en-CA/games/store/silent-hill-f/9n5nfrqv2hqq"
 title: Silent Hill f
+abbreviations:
+    SH: "Silent Hill"
+    SHf: "Silent Hill f"
 description: I think we were all waiting with bated breath for this one. The trailer was dropped with Konami’s Silent Hill Transmission, back in October of 2022, which was when they announced that they were reviving the franchise...
 image: 'images/posts/2025-09-25-review-silent-hill-f/hero.webp'
 featured: false
@@ -32,7 +40,7 @@ Puzzles make their expected return, and while most of them were done well enough
 The pacing of Silent Hill f isn’t bad at all. From the beginning of the game on, it ramps up the encounters in a meaningful way. Each section feels complete as you bounce from the real-world to the other-world. You may find that the plotline gets a little convoluted as you bounce between the realms. The stories try their best to intertwine but ultimately get lost in the constant shifting. If you’re taking notes, it’s likely you’ll follow the story enough to get by. 
 
 ## Story & Narrative
-As stated, the game begins in Ebisugaoka, which is the host to many of Hinako’s memories. It’s situated at the bottom of a mountain and has rural farm areas surrounding the otherwise busy downtown core. The town is beautifully designed and has a good deal of places to explore.Then there’s the other-realm which is much more open, though dark. The other-realm doesn’t appear to be connected to [town name] geographically, but it still fits the overall theme of the game.
+As stated, the game begins in Ebisugaoka, which is the host to many of Hinako’s memories. It’s situated at the bottom of a mountain and has rural farm areas surrounding the otherwise busy downtown core. The town is beautifully designed and has a good deal of places to explore. Then there’s the other-realm which is much more open, though dark. The other-realm doesn’t appear to be connected to [town name] geographically, but it still fits the overall theme of the game.
 
 The entire plot revolves around our protagonist, Hinako, who’s in the center of the expectations of everyone around her. Her parents are in massive debt and are relying on the arranged marriage of Hinako to dig them out. They have a dysfunctional relationship… her father is a terrible, abusive person and Hinako resents her mother for being passive about that. Hinako’s friends are there to add context, but they’re no better. Shu, who is Hinako’s best friend and platonic “partner”, is resentful about the arranged marriage. Rinko is jealous of Shu and Hinako’s bond and is actively attempting to split them up throughout the game both metaphorically and physically. Only Fox Mask seems to truly be on Hinako’s side… even if he is a little overbearing and you’re continuously being warned by your childhood doll telling you not to trust him.
 
@@ -52,7 +60,7 @@ The music, another installment done by Akira Yamaoka, is definitely fitting for 
 ## Verdict
 Silent Hill f has many strengths and few weaknesses as it stands for a horror game. It’s a triple A game and plays like one. There were very few bugs I encountered and many of the elements in the game met or exceeded my expectations. There were moments that I felt were jarring, out of place, and downright silly for a Silent Hill game (more on that in my rant below). As I said in the beginning, my computer is a little below the minimum requirements, so once that’s updated, I am likely to buy and play this again. I like the system of keeping your starts between playthroughs making each one a little easier and I do want to experience the multiple endings myself at some point. So if you’re a fan of body/survival/japan/horror, I believe you would enjoy this game whether you're a SH fan or not.
 
-5/6
+**Score: 5/6**
 
 > ...if you’re a fan of body/survival/japan/horror, I believe you would enjoy this game whether you're a SH fan or not
 

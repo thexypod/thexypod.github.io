@@ -4,7 +4,11 @@ tags: [ghosts, paranormal, haunting, indie]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
+playtime-at-review: 5.1 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/3528970/Unmourned/"
+    Playstation: "https://store.playstation.com/en-gr/product/HB1739-PPSA30956_00-0380293574582221"
 title: Unmourned
 description: Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”...
 image: 'images/posts/2025-12-20-review-unmourned/hero.webp'
@@ -42,8 +46,8 @@ The audio was well done especially for a horror game. All the audio designed to 
 
 
 ## Verdict
-Despite some of the flaws, I definitely enjoyed my time with Unmourned and would likely play it again. I noticed some nods to games like Silent Hill and P.T. like prominent characters having the names Mary and Lisa, and I swear there's a spot in the game that was designed to give you pause knowing you've seen it before in P.T. not to mention a few P.T. inspired game mechanics. 
+Despite some of the flaws, I definitely enjoyed my time with Unmourned and would likely play it again. I noticed some nods to games like Silent Hill and P.T. like prominent characters having the names Mary and Lisa, and I swear there's a spot in the game that was designed to give you pause knowing you've seen it before in P.T. not to mention a few P.T. inspired game mechanics.
 
-Another thing to note is that I never ran into any game breaking bugs, if any bugs at all, so it does feel like a good polished game as I went through it. I completed the game in just over 5 hours. In that time there was a single achievement that I missed that would've got me to the 100% mark. Whether or not that amount of time makes the game worth it is more or less up to you. It's still relatively new, so I wouldn't expect a crazy sale on Steam any time soon. I paid about $30CDN and don't really have any buyers remorse. That said, I've paid less for games and put in many more hours. 
+Another thing to note is that I never ran into any game breaking bugs, if any bugs at all, so it does feel like a good polished game as I went through it. I completed the game in just over 5 hours. In that time there was a single achievement that I missed that would've got me to the 100% mark. Whether or not that amount of time makes the game worth it is more or less up to you. It's still relatively new, so I wouldn't expect a crazy sale on Steam any time soon. I paid about $30CDN and don't really have any buyers remorse. That said, I've paid less for games and put in many more hours.
 
-4/6
+**Score: 4/6**

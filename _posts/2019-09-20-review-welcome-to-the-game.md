@@ -5,6 +5,9 @@ layout: post
 author: Xy
 type: Review
 playtime-at-review: 5.0 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/485380/Welcome_to_the_Game/"
 title: Welcome To The Game
 description: I'm all for ambiguity in Horror games. This one misses the mark by not clearly explaining what the rules actually are. You really need to figure out pretty much all of the mechanics on your own...
 image: 'images/posts/2019-09-20-review-welcome-to-the-game/hero.webp'
@@ -17,4 +20,4 @@ The graphics are fine for what it is. You'll be operating a computer with a brow
 
 The audio definitely needs work. It uses some pretty low quality sounds that repeat and took me out of the game entirely at points. The scares are great, don't get me wrong. If you're not looking for something with any real substance and don't mind paying a couple bucks for some cheap jumpscares, then you'll be fine. But don't be surprised if you get too frustrated before you can even complete it. 
 
-1.5/6
+**Score: 1.5/6**

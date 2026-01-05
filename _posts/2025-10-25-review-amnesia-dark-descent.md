@@ -4,6 +4,13 @@ tags: [stalker, classic, psychological, indie]
 layout: post
 author: Xy
 type: Review
+playtime-at-review: 12.4 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
+    Playstation: "https://store.playstation.com/en-ca/product/UP1192-CUSA05882_00-AMNESIACOLECTION"
+    Xbox: "https://www.xbox.com/en-CA/games/store/amnesia-collection/bv02tbl15dx3"
+    Nintendo: "https://www.nintendo.com/us/store/products/amnesia-collection-switch/"
 title: "Amnesia: The Dark Descent"
 description: If you're at all into horror, you have likely already heard of amnesia the dark decent. It's sold over 1 million copies since it's release and has since been released on multiple platforms...
 image: 'images/posts/2025-10-25-review-amnesia-dark-descent/hero.webp'
@@ -54,14 +61,12 @@ The castle is also filled with ghostly whispers and auditory hallucinations expe
 
 The ending is interesting, but leads to another issue that feels a bit uninspired. There will be no spoilers here, but after the ending you get an achievement. Checking the achievements you see there are other achievements to get at the same point. So naturally you reload and get those achievements, because why not? You don't want to go back and play through the entire game just to experience what would happen had you had just interacted differently with the end encounter.
 
-And that's the point. There isn't too much for replayability aside from wanting to experience the horror again! Which in itself is great for a horror game. I can see myself revisiting Castle Brennan erg at some point. However, there's no alternative routes to take or anything, so the multi-ending situation felt more like an afterthought.
+And that's the point. There isn't too much for replayability aside from wanting to experience the horror again! Which in itself is great for a horror game. I can see myself revisiting Castle Brennanberg at some point. However, there's no alternative routes to take or anything, so the multi-ending situation felt more like an afterthought.
 
 It doesn't detract from the game whatsoever, but what you choose to do in the moment you might want to take as your "Canon moment" because with all the info you have, and what you see before you, it's up to you to decide how you'll react in the final act.
 
-So what's happened with the game and why have the reviews slipped from overwhelmingly positive to mostly positive on Steam? Well, a quick look shows that many recent players are taking issue with the graphics. You have to admit at this point in time, they do feel dated... but the reality is the game is dated.
+So what's happened with the game and why have the reviews slipped from overwhelmingly positive to mostly positive on Steam? Well, a quick look shows that many recent players are taking issue with the graphics. You have to admit at this point in time, they do feel dated... but the reality is the game is dated. At 16 years old at the time of this review, it's easy to view it as such when you have modern day horror games like Resident Evil pushing realism more than ever before.
 
-At 16 years old at the time of this review, it's easy to view it as such when you have modern day horror games like Resident Evil pushing realism more than ever before.
-
-So should you play Amnesia: The Dark Decent in 2026? If you frequent /r/patientgamers and still find yourself booting up some of the classic horror games, then absolutely you will enjoy playing it. If you're only really interested in the latest and greatest with tons of realism and top notch graphics, you can give this one a pass.
+So should you play Amnesia: The Dark Decent in 2026? If you frequent [/r/patientgamers](https://reddit.com/r/patientgamers) and still find yourself booting up some of the classic horror games, then absolutely you will enjoy playing it. If you're only really interested in the latest and greatest with tons of realism and top notch graphics, you can give this one a pass.
 
 **Score: 5.5/6**

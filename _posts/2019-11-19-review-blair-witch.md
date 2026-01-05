@@ -5,6 +5,12 @@ layout: post
 author: Xy
 type: Review
 playtime-at-review: 5.0 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/1092660/Blair_Witch/"
+    Playstation: "https://store.playstation.com/en-ca/product/UP5969-CUSA18142_00-BLAIRWITCHUS0000"
+    Xbox: "https://www.xbox.com/en-US/games/store/blair-witch/9ng7lg421v0q"
+    Nintendo: "https://www.nintendo.com/en-ca/store/products/blair-witch-switch/"
 title: Blair Witch
 description: Let me start out this review by saying I am a Blair Witch fan through and through. I loved the movies, I took part in the ARG that was initially released. I was excited for this game...
 image: 'images/posts/2019-11-19-review-blair-witch/hero.webp'
@@ -22,4 +28,4 @@ Graphics and sound are what make me recommend this game alone. You do feel like 
 
 In the end, it feels like an original story that slapped the Blair Witch name onto it and then adjusted accordingly. But for horror fans it's certainly worth getting on sale and doing a full playthrough. For die hard Blair Witch fans, don't expect to get deeper into the lore at all...
 
-3/5
+**Score: 3.5/6**

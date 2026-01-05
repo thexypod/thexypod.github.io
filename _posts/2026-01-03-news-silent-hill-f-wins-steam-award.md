@@ -1,6 +1,6 @@
 ---
 date: 2026-01-03
-tags: [survival, awards, steam]
+tags: [psychological, female-protagonist, silent-hill, awards, steam]
 layout: post
 author: Xy
 type: News
@@ -12,6 +12,8 @@ featured: true
 
 The Steam Award winners have been announced and Silent Hill f has won in the category “Outstanding Visual Style”. It's well deserved! While I have my reservations on Silent Hill f in terms of it being a Silent Hill game [read full review here](https://thexypod.com/review-silent-hill-f), there's absolutely no denying that the game is gorgeous to look at and well designed from the bottom up.
 
+![](/images/posts/2026-01-03-news-silent-hill-f-wins-steam-award/image1.webp)
+
 The Outstanding Visual Style award is described on Steam as “Visual style doesn't aspire to real-world graphical fidelity (though a noble goal in itself)… it describes a distinctive look and feel that suffuses an entire game.” or in other words it won because it has a distinct artistic identity. Every setting, monster, effect, and prop has a unique style to it that stands out above your standard horror game.
 
 Silent Hill f has won against
@@ -20,6 +22,8 @@ Silent Hill f has won against
 - Doom: The Dark Ages
 - Dream BBQ
 - Final Fantasy VII
+
+![](/images/posts/2026-01-03-news-silent-hill-f-wins-steam-award/image2.webp)
 
 This is also a big year for the horror genre because the Steam awards also has quite a few nominees!
 

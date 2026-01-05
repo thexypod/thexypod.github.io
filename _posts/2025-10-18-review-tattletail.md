@@ -4,7 +4,10 @@ tags: [stalker, retro, christmas, indie]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
+playtime-at-review: 5 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/568090/Tattletail/"
 title: Tattletail
 description: You might look at a game like Tattletail and think there’s nothing to it. On the surface, it’s a cute, retro-styled horror game riffing on the old Furby craze from the late 90s...
 image: 'images/posts/2025-10-18-review-tattletail/hero.webp'

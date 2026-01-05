@@ -4,7 +4,10 @@ tags: [sewer, surreal, indie]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
+playtime-at-review: 5.9 hours
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/963710/Lost_in_Vivo/"
 title: Lost In Vivo
 description: This showed up in my queue and seeing as it had "overwhelmingly positive" reviews at the time, I checked it out on a whim. I'm a big Silent Hill fan so the first thing I noticed was the similarities in the trailer...
 image: 'images/posts/2019-01-04-review-lost-in-vivo/hero.webp'
@@ -19,4 +22,4 @@ I won't get into spoiler territory, but I will say this: You can tell almost rig
 
 So in summary, if you're into the atmosphere of Silent Hill, find charm in intentionally dated graphics, enjoy surreal gaming experiences leaving you in a total WTF headspin, or any of the above... you're going to love this game!
 
-5/6
+**Score: 5/6**

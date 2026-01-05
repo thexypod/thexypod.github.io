@@ -29,7 +29,32 @@ layout: default
             </span>
           </div>
 
-          <h2 class="post__title">{{ page.title }}</h2>
+            <h2 class="post__title">{% if page.type == "Review" %}Review <br>{% endif %}{{ page.title }}</h2>
+            {% if page.type == "Review" %}
+              <h3 class="post__meta-title">Played On:</h3>
+              <p class="post__meta-info">{{ page.platform-played-on }}</p>
+              <h3 class="post__meta-title">Playtime:</h3>
+              <p class="post__meta-info">{{ page.playtime-at-review }} </p>
+              <h3 class="post__meta-title">Available On: </h3>
+              <ul class="post__meta-info">
+                {% for platform in page.platforms %}
+                  <li>
+                    <a href="{{ platform[1] }}" target="_blank" rel="noopener">
+                      {% if platform[0] == "Steam" %}
+                        <i class="fa-brands fa-steam"></i>
+                        {% elsif platform[0] == "Playstation" %}
+                          <i class="fa-brands fa-playstation"></i>
+                        {% elsif platform[0] == "Xbox" %}
+                          <i class="fa-brands fa-xbox"></i>
+                          {% elsif platform[0] == "Nintendo" %}
+                            <i class="fa-solid fa-gamepad"></i>
+                      {% endif %}
+                      {{ platform[0] }}
+                    </a>
+                  </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
 
           <div class="post__bottom">
 
@@ -64,6 +89,17 @@ layout: default
     <div class="post__content">
       {{ content }}
     </div>
+
+    {% if page.type == "Review" %}
+      <a href="https://store.steampowered.com/curator/34583902-TheXyPod-%257C-Horror-Reviews/lists/" class="curator-link">
+      <img class="animate" src="images/steamCurator.webp" height="250" width="250" alt="An image of Xy faceswapped in Alien Isolation Game Art. TheXyPod Horror Reviews is in text here">
+        <div class="curator-link__info">
+          <h3>Steam Curator</h3>
+          <p>Like the review and want to see them on Steam as you browse? Follow the curator page on Steam to get recommendations right in your store.</p>
+        </div>
+      </a>
+
+    {% endif %}
 
     <div class="post__share">
       <div class="share__list">

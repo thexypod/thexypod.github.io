@@ -4,8 +4,13 @@ tags: [stalker, house, indie]
 layout: post
 author: Xy
 type: Review
-playtime-at-review: 5.0 hours
-platform: steam
+playtime-at-review: 102 minutes
+platform-played-on: Steam
+platforms:
+    Steam: "https://store.steampowered.com/app/967050/Pacify/"
+    Playstation: "https://store.playstation.com/en-ca/product/UP1943-CUSA17293_00-PACI0USEN0V10000"
+    Xbox: "https://www.xbox.com/en-CA/games/store/pacify/9P5ZMJP84V95"
+    Nintendo: "https://www.nintendo.com/en-ca/store/products/pacify-switch/"
 title: Pacify
 description: When you get Pacify, you're not getting in to a massive story line with heaps of objectives and hours upon hours of game play. It's simple at its core and designed to scare the shit out of you...
 image: 'images/posts/2019-02-27-review-pacify/hero.webp'
@@ -23,3 +28,5 @@ When you get Pacify, you're not getting in to a massive story line with heaps of
 I easily sunk about 2 hours in the game just learning the mechanics and exploring the environment. The audio is lacking and a bit silent at parts, leaving some of the atmosphere lacking. Also could do with some form of chat system or indications of who is carrying what (keys, wood, matches, dolls), their status (doll or not). But even with random people and no VC, I had a blast trying to keep people from being taken to the darkness all while trying to burn the marked dolls.
 
 All in, for the price it's got a very challenging single player mode with lots of potential for multiplayer. I could see myself and a couple friends having a spooky good time with this game.
+
+**Score: 4/6**
