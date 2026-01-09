@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 platform-played-on: Steam
+game-release-date: 2019-08-30
 platforms:
     Steam: "https://store.steampowered.com/app/1092660/Blair_Witch/"
     Playstation: "https://store.playstation.com/en-ca/product/UP5969-CUSA18142_00-BLAIRWITCHUS0000"

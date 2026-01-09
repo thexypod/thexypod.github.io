@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 12.4 hours
 platform-played-on: Steam
+game-release-date: 2010-09-08
 platforms:
     Steam: "https://store.steampowered.com/app/57300/Amnesia_The_Dark_Descent/"
     Playstation: "https://store.playstation.com/en-ca/product/UP1192-CUSA05882_00-AMNESIACOLECTION"

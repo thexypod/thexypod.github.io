@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.1 hours
 platform-played-on: Steam
+game-release-date: 2017-02-10
 platforms:
     Steam: "https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/"
     Playstation: "https://store.playstation.com/en-ca/product/UP2344-CUSA13637_00-MDKRTGAMES4BATIM"

@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5 hours
 platform-played-on: Steam
+game-release-date: 2016-12-28
 platforms:
     Steam: "https://store.steampowered.com/app/568090/Tattletail/"
 title: Tattletail

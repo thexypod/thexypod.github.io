@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.1 hours
 platform-played-on: Steam
+game-release-date: 2025-11-17
 platforms:
     Steam: "https://store.steampowered.com/app/3528970/Unmourned/"
     Playstation: "https://store.playstation.com/en-gr/product/HB1739-PPSA30956_00-0380293574582221"

@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.0 hours
 platform-played-on: Steam
+game-release-date: 2016-06-15
 platforms:
     Steam: "https://store.steampowered.com/app/485380/Welcome_to_the_Game/"
 title: Welcome To The Game

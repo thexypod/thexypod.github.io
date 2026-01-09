@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 19.8 hours
 platform-played-on: Steam
+game-release-date: 2018-09-25
 platforms:
     Steam: "https://store.steampowered.com/app/921780/The_Dark_Occult/"
 title: The Dark Occult

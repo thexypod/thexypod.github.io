@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 4.5 hours
 platform-played-on: Steam
+game-release-date: 2019-08-15
 platforms:
     Steam: "https://store.steampowered.com/app/433550/DARQ_Complete_Edition/"
     Playstation: "https://store.playstation.com/en-us/concept/10001715"

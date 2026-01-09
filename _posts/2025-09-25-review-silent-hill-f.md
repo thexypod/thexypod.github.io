@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 10 hours
 platform-played-on: Playstation 5
+game-release-date: 2025-09-25
 platforms:
     Steam: "https://store.steampowered.com/app/2947440/SILENT_HILL_f/"
     Playstation: "https://www.playstation.com/en-ca/games/silent-hill-f/"

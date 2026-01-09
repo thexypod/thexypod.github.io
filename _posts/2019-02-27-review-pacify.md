@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 102 minutes
 platform-played-on: Steam
+game-release-date: 2019-02-22
 platforms:
     Steam: "https://store.steampowered.com/app/967050/Pacify/"
     Playstation: "https://store.playstation.com/en-ca/product/UP1943-CUSA17293_00-PACI0USEN0V10000"

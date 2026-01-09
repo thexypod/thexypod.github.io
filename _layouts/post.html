@@ -31,6 +31,8 @@ layout: default
 
             <h2 class="post__title">{% if page.type == "Review" %}Review <br>{% endif %}{{ page.title }}</h2>
             {% if page.type == "Review" %}
+              <h3 class="post__meta-title">Released:</h3>
+              <p class="post__meta-info">{{ page.game-release-date | date: "%B %-d, %Y"  }}</p>
               <h3 class="post__meta-title">Played On:</h3>
               <p class="post__meta-info">{{ page.platform-played-on }}</p>
               <h3 class="post__meta-title">Playtime:</h3>

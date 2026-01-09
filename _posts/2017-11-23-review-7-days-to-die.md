@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 1064 hours
 platform-played-on: Steam
+game-release-date: 2013-12-13
 platforms:
     Steam: "https://store.steampowered.com/app/251570/7_Days_to_Die/"
     Playstation: "https://store.playstation.com/en-ca/product/UP0727-PPSA16645_00-0184103882519534"

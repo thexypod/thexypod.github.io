@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 5.9 hours
 platform-played-on: Steam
+game-release-date: 2018-11-05
 platforms:
     Steam: "https://store.steampowered.com/app/963710/Lost_in_Vivo/"
 title: Lost In Vivo

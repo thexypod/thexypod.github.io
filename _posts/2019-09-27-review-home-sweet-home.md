@@ -6,6 +6,7 @@ author: Xy
 type: Review
 playtime-at-review: 6 hours
 platform-played-on: Steam
+game-release-date: 2017-09-27
 platforms:
     Steam: "https://store.steampowered.com/app/617160/Home_Sweet_Home/"
     Playstation: "https://store.playstation.com/en-ca/product/UP1059-CUSA12684_00-HOMESWEETHOMEUSA/"
