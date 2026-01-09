@@ -13,7 +13,7 @@ platforms:
 title: Becrowned (Demo)
 abbreviations:
     ex: example
-description: Fill out description here
+description:
 image: 'images/posts/2026-01-07-review-becrowned-demo/hero.webp'
 featured: true
 ---
