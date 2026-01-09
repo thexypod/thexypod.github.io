@@ -13,7 +13,7 @@ platforms:
 title: Becrowned (Demo)
 abbreviations:
     ex: example
-description:
+description: "Since this was just a demo, consider this a demo review. I’m not going to get in too deep here, but the game is shaping up to become one of my most anticipated games coming out in the coming months."
 image: 'images/posts/2026-01-07-review-becrowned-demo/hero.webp'
 featured: true
 ---
