@@ -7,7 +7,7 @@ type: News
 title: Silent Hill f Wins in Steam Awards
 description: The Steam Award winners have been announced and Silent Hill f has won in the category “Outstanding Visual Style”....
 image:  '/images/posts/2026-01-03-news-silent-hill-f-wins-steam-award/hero.webp'
-featured: true
+featured: false
 ---
 
 The Steam Award winners have been announced and Silent Hill f has won in the category “Outstanding Visual Style”. It's well deserved! While I have my reservations on Silent Hill f in terms of it being a Silent Hill game [read full review here](https://thexypod.com/review-silent-hill-f), there's absolutely no denying that the game is gorgeous to look at and well designed from the bottom up.
