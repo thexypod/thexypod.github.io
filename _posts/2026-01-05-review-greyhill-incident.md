@@ -15,7 +15,7 @@ platforms:
 title: Greyhill Incident
 abbreviations:
     ex: example
-description: Fill out description here
+description: "You play as Ryan. The game starts with you chatting on the radio with a few of the other residents. It comes through that there are reports of something strange happening in Greyhill and you’re tasked with trying to find the cause."
 image: 'images/posts/2026-01-05-review-greyhill-incident/hero.webp'
 featured: false
 ---
