@@ -1,7 +1,7 @@
 /* Header */
 .header {
   width: 100%;
-  padding: 1.5rem 0;
+  padding: 1rem 0;
   transition: $global-transition;
   color: $white;
 
@@ -254,4 +254,60 @@
   @media (max-width: $tablet) {
     margin-bottom: 30px;
   }
+}
+
+#live-status {
+  display: grid;
+  grid-auto-columns: 1fr;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  gap: 0px 0px;
+  grid-template-areas:
+    "live-icon text";
+    justify-content: center;
+    align-items: center;
+  position: fixed;
+  font-size: 0.75rem;
+  text-align: center;
+  line-height: 1rem;
+  padding: 0.5rem;
+  top: 80px;
+  left: 0;
+  z-index: 99;
+  background-color: #09080fe6;
+  backdrop-filter: saturate(180%) blur(10px);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 1);
+
+  &__icon {
+    grid-area: live-icon;
+    font-size: 1rem;
+  }
+
+  &__info {
+    grid-area: text;
+    margin-left: 0.5rem;
+    &-text {
+      margin-bottom: 0.5rem;
+    }
+  }
+      &__links {
+      font-size: 1rem;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+}
+
+#live-status__icon {
+  &.live {
+    color: red;
+    animation: pulse 1.5s infinite;
+  }
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.25; }
+  100% { opacity: 1; }
 }

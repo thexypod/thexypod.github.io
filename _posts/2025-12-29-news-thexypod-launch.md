@@ -13,7 +13,7 @@ featured: true
 Well, this has been a long time coming, and now we're finally here. I'm excited to launch the all new 100% Horror game site TheXyPod.com. Here, I'll be featuring all the reviews that stem from my playthrough of the game on stream. I've wanted to do this site since I started live-streaming back in 2018. Only after I officially became a web dev myself did I feel confident enough to actually do it.
 
 ### Who I Am
-I'm Xy! I have been streaming horror games on [Twitch](https://twitch.com/TheXyPod) since 2018 and recently began multi-streaming to [YouTube](https://youtube.com/@TheXyPod) as well. I grew up on horror, from movies to games, books, and comics so I'm continuing that here. Horror isn't all I consume, but it takes up a lot of it. I'm also into sci-fi and city building games too! You can read more about me [here](https://thexypod.com/about/)
+I'm Xy! I have been streaming horror games on [Twitch](https://twitch.com/TheXyPod) since 2018 and recently began multi-streaming to [YouTube](https://youtube.com/@TheXyPod?sub_confirmation=1) as well. I grew up on horror, from movies to games, books, and comics so I'm continuing that here. Horror isn't all I consume, but it takes up a lot of it. I'm also into sci-fi and city building games too! You can read more about me [here](https://thexypod.com/about/)
 
 ### What's With The Name?
 

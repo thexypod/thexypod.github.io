@@ -1,24 +1,16 @@
-{% if page.id %}
-  {% assign class = '' %}
-  {% elsif page.url contains 'tag' %}
-  {% assign class = '' %}
-  {% else %}
-  {% assign class = 'header--top' %}
-{% endif %}
-
 <!-- begin header -->
-<header class="header {{ class }}">
+<header class="header header--top">
   <div class="container">
     <div class="row">
       <div class="header__inner col col-12">
 
       <div class="logo">
         <a class="logo__link" href="{{ site.baseurl }}/">
-        {% if site.data.settings.logo %}
+          {% if site.data.settings.logo %}
           <img class="logo__image" width="48" height="48" src="{{ site.data.settings.logo | relative_url }}" alt="{{ site.data.settings.title }}">
-        {% else %}
+          {% else %}
           {{ site.data.settings.title }}
-        {% endif %}
+          {% endif %}
         </a>
       </div>
 
@@ -69,6 +61,16 @@
     </div>
   </div>
 </header>
+<div id="live-status">
+  <span id="live-status__icon">⚫</span>
+  <div id="live-status__info">
+    <p id="live-status__info-text">TheXyPod is Offline</p>
+    <div id="live-status__links">
+      <a href="https://twitch.tv/thexypod"><i class="fa-brands fa-twitch"></i></a>
+      <a href="https://youtube.com/@TheXyPod?sub_confirmation=1"><i class="fa-brands fa-youtube"></i></a>
+    </div>
+  </div>
+</div>
 <!-- end header -->
 
 {% include search.html %}

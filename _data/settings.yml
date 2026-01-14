@@ -47,7 +47,7 @@ contact:
 # Footer section
 social:
 - {icon: "fa-brands fa-twitch", name: "Twitch", link: "https://twitch.com/TheXyPod"}
-- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com/@TheXyPod"}
+- {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://youtube.com/@TheXyPod?sub_confirmation=1"}
 - {icon: "fa-brands fa-discord", name: "Discord", link: "https://discord.gg/AwVkDQRhjx"}
 - {icon: "fa-brands fa-steam", name: "Steam", link: "https://steamcommunity.com/id/XyPod/"}
 - {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com/r/TheXyPod"}

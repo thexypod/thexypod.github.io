@@ -6,7 +6,7 @@ image: '/images/hero/hero-about.webp'
 ---
 
 Hi! I’m Xy — like xylophone, but louder and with way more screaming.
-Canadian, father, husband, and gamer raised on Doom, Wolfenstein, and late-night horror marathons (both games and movies 😈). I play games that make my heart race and my chat laugh. I chase jump scares for fun now. Expect bad decisions, good vibes, and the occasional panic scream. I stream 100% horror games on [Twitch](https://twitch.com/TheXyPod) and [YouTube](https://youtube.com/@TheXyPod) and this site serves as a repository for my reviews of these games as well as all the freshest news I can find.
+Canadian, father, husband, and gamer raised on Doom, Wolfenstein, and late-night horror marathons (both games and movies 😈). I play games that make my heart race and my chat laugh. I chase jump scares for fun now. Expect bad decisions, good vibes, and the occasional panic scream. I stream 100% horror games on [Twitch](https://twitch.com/TheXyPod) and [YouTube](https://youtube.com/@TheXyPod?sub_confirmation=1) and this site serves as a repository for my reviews of these games as well as all the freshest news I can find.
 
 ![A picture of Xy with a brick wall backdrop.](/images/about-xy.webp)
 

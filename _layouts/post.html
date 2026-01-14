@@ -31,13 +31,13 @@ layout: default
 
             <h2 class="post__title">{% if page.type == "Review" %}Review <br>{% endif %}{{ page.title }}</h2>
             {% if page.type == "Review" %}
-              <h3 class="post__meta-title">Released:</h3>
+              <h3 class="post__meta-title">Released</h3>
               <p class="post__meta-info">{{ page.game-release-date | date: "%B %-d, %Y"  }}</p>
-              <h3 class="post__meta-title">Played On:</h3>
+              <h3 class="post__meta-title">Played On</h3>
               <p class="post__meta-info">{{ page.platform-played-on }}</p>
-              <h3 class="post__meta-title">Playtime:</h3>
+              <h3 class="post__meta-title">Playtime</h3>
               <p class="post__meta-info">{{ page.playtime-at-review }} </p>
-              <h3 class="post__meta-title">Available On: </h3>
+              <h3 class="post__meta-title">Available On </h3>
               <ul class="post__meta-info">
                 {% for platform in page.platforms %}
                   <li>
@@ -63,12 +63,12 @@ layout: default
             <div class="post__author">
               <a href="{{ '/about/' | relative_url }}" aria-label="{{ site.data.settings.author.name }}"><img class="post__author-image"
                   src="{{ site.data.settings.author.avatar | relative_url }}" alt="{{ site.data.settings.author.name }}'s Picture"></a>
+                  <a href="{{ '/about/' | relative_url }}" class="post__author-link">Author: {{ site.data.settings.author.name }}</a>
             </div>
 
             <div class="post__bottom-meta">
-              <a href="{{ '/about/' | relative_url }}" class="post__author-link">{{ site.data.settings.author.name }}</a>
+              <h3 class="post__meta-title">Tags</h3>
               {% if page.tags.size >= 1 %}
-              <span>in</span>
               <span class="post-tags">
                 {% for tag in page.tags %}
                 <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post__tag">{{ tag }}</a>
