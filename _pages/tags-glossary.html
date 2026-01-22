@@ -14,16 +14,19 @@ image: '/images/hero/hero-glossary.webp'
             <th>Meaning</th>
         </tr>
 
-        {% assign sorted_tags = site.data.tags | sort: "tag" %}
-        {% for item in sorted_tags %}
-            <tr>
-                <td class="table-tag">
-                    <a href="/tags/?tag={{ item.tag }}">
-                        {{ item.tag }}
-                    </a>
-                </td>
-                <td>{{ item.description }}</td>
-            </tr>
+        {% assign tag_names = site.data.tags | map: "tag" | sort %}
+
+        {% for tag_name in tag_names %}
+        {% assign tag_item = site.data.tags | where: "tag", tag_name | first %}
+        <tr>
+            <td class="table-tag">
+            <a href="/tags/?tag={{ tag_name }}">
+                {{ tag_name }}
+            </a>
+            </td>
+            <td>{{ tag_item.description }}</td>
+        </tr>
         {% endfor %}
+
     </table>
 </div>
