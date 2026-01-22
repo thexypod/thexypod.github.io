@@ -16,6 +16,12 @@
   <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
   <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
 
+  {% if page.type == "Review" %}
+    {% include schema-review.html %}
+  {% endif %}
+
+
+
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">

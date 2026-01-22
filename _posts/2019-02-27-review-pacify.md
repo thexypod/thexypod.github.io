@@ -13,14 +13,15 @@ platforms:
     Xbox: "https://www.xbox.com/en-CA/games/store/pacify/9P5ZMJP84V95"
     Nintendo: "https://www.nintendo.com/en-ca/store/products/pacify-switch/"
 title: Pacify
+developer: "Shawn Hitchcock"
 description: When you get Pacify, you're not getting in to a massive story line with heaps of objectives and hours upon hours of game play. It's simple at its core and designed to scare the shit out of you...
 image: 'images/posts/2019-02-27-review-pacify/hero.webp'
 featured: false
+score: 4
+broadcasts:
+    - date: 2019/02/27
+      url: "https://www.twitch.tv/videos/387537466"
 ---
-
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2019/02/27)](https://www.twitch.tv/videos/387537466)
 
 > While somewhat shallow at its core, with all things considered, Pacify is sure to bring you decent jump scares in its well designed spooky short runs and fun multiplayer dynamics. Bring friends!
 

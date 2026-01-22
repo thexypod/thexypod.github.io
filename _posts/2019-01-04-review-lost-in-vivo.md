@@ -1,6 +1,6 @@
 ---
 date: 2019-01-04
-tags: [sewer, surreal, indie]
+tags: [sewer, surreal, survival, indie]
 layout: post
 author: Xy
 type: Review
@@ -10,9 +10,11 @@ game-release-date: 2018-11-05
 platforms:
     Steam: "https://store.steampowered.com/app/963710/Lost_in_Vivo/"
 title: Lost In Vivo
+developer: "KIRA"
 description: This showed up in my queue and seeing as it had "overwhelmingly positive" reviews at the time, I checked it out on a whim. I'm a big Silent Hill fan so the first thing I noticed was the similarities in the trailer...
 image: 'images/posts/2019-01-04-review-lost-in-vivo/hero.webp'
 featured: false
+score: 5
 ---
 
 > A horror game with a big, cold, black and bleeding heart! This game need to be celebrated as an outstanding addition to the horror genre.

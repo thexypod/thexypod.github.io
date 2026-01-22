@@ -12,9 +12,11 @@ platforms:
     Playstation: "https://store.playstation.com/en-ca/product/UP0727-PPSA16645_00-0184103882519534"
     Xbox: "https://www.xbox.com/en-US/games/store/7-days-to-die-console-edition-game-preview/9p6dwl7r6ntl"
 title: 7 Days To Die
+developer: "The Fun Pimps"
 description: "In just over a week I have easily dumped over 100 hours into this game with lots of positive things to say. The exploration factor is fantastic: The procedurally generated maps are very large and take days (both in game and IRL) to explore in their entirety..."
 image: 'images/posts/2017-11-23-review-7-days-to-die/hero.webp'
 featured: false
+score: 5
 ---
 
 > One part Minecraft, one part Fallout series, one part Left 4 Dead = 7 Days to die!

@@ -1,6 +1,6 @@
 ---
 date: 2025-09-25
-tags: [silent-hill, psychological, female-protagonist, AAA]
+tags: [silent-hill, psychological, survival, female-protagonist, third-person, AAA]
 layout: post
 author: Xy
 type: Review
@@ -12,12 +12,14 @@ platforms:
     Playstation: "https://www.playstation.com/en-ca/games/silent-hill-f/"
     Xbox: "https://www.xbox.com/en-CA/games/store/silent-hill-f/9n5nfrqv2hqq"
 title: Silent Hill f
+developer: "NeoBards Entertainment Ltd."
 abbreviations:
     SH: "Silent Hill"
     SHf: "Silent Hill f"
 description: I think we were all waiting with bated breath for this one. The trailer was dropped with Konami’s Silent Hill Transmission, back in October of 2022, which was when they announced that they were reviving the franchise...
 image: 'images/posts/2025-09-25-review-silent-hill-f/hero.webp'
 featured: false
+score: 5
 ---
 
 I think we were all waiting with bated breath for this one. The trailer was dropped with Konami’s Silent Hill Transmission, back in October of 2022, which was when they announced that they were reviving the franchise with a series of releases coming over the following years. It immediately stood out from the other releases because while it was a Silent Hill game, it didn’t have the setting of the abandoned American city we’ve all come to know and love. And while there was fog, there was something else… something organic carpeting the town which now had a traditional Japan setting from the 1960s. My computer is a little dated now, so I had to borrow a friend’s PS5 to play this one. I was excited, completely unaware of the journey ahead. So how did it pan out? 

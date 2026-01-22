@@ -12,9 +12,11 @@ platforms:
     Playstation: "https://store.playstation.com/en-ca/product/UP1059-CUSA12684_00-HOMESWEETHOMEUSA/"
     Xbox: "https://www.xbox.com/en-US/games/store/home-sweet-home/c4b4k16tjg7z"
 title: Home Sweet Home (Episode 1)
+developer: "YGGDRAZIL GROUP CO.,LTD"
 description: Home Sweet Home is a fairly standard horror walking sim. It stands out by having some solid stealth mechanics that lead to some seriously tense moments within an atmosphere full of dread...
 image: 'images/posts/2019-09-27-review-home-sweet-home/hero.webp'
 featured: false
+score: 4.5
 ---
 
 > Horror Fans Come Home! Episodic by design, so this chapter won't be as fulfilling as you would hope. But it certainly is a great start!

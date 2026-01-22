@@ -10,9 +10,11 @@ game-release-date: 2018-09-25
 platforms:
     Steam: "https://store.steampowered.com/app/921780/The_Dark_Occult/"
 title: The Dark Occult
+developer: "RYM GAMES"
 description: Coming from Rym Games, a small outfit from Morocco, it succeeds in bringing true paranormal scares and atmosphere. It plays a bit like Outlast mixed with Fatal Frame and maybe even a bit of Silent Hill...
 image: 'images/posts/2018-10-11-review-the-dark-occult/hero.webp'
 featured: false
+score: 3
 ---
 
 Coming from Rym Games, a small outfit from Morocco, it succeeds in bringing true paranormal scares and atmosphere. It plays a bit like Outlast mixed with Fatal Frame and maybe even a bit of Silent Hill. You journey through a house that is plagued with a history of the occult, rituals, sacrifices, and just overall awful things as you try to locate your friends & colleagues. Solve puzzles, find keys and items to progress… while it doesn’t bring anything new to the table in terms of survival horror gameplay, when the formula works… Jump scares aplenty, but they’re all well timed and never feel overstated. At the time of writing this, I have roughly 7 hours into it and I find myself excited to continue my search.

@@ -1,6 +1,6 @@
 ---
 date: 2025-12-20
-tags: [ghosts, paranormal, haunting, indie]
+tags: [ghosts, paranormal, haunting, sanity, house, indie]
 layout: post
 author: Xy
 type: Review
@@ -11,19 +11,20 @@ platforms:
     Steam: "https://store.steampowered.com/app/3528970/Unmourned/"
     Playstation: "https://store.playstation.com/en-gr/product/HB1739-PPSA30956_00-0380293574582221"
 title: Unmourned
+developer: "Codebros Studio"
 description: Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”...
 image: 'images/posts/2025-12-20-review-unmourned/hero.webp'
 featured: false
+score: 4
+broadcasts:
+    - date: 2025/12/20
+      url: "https://www.youtube.com/live/DO5T4G7fsKQ?si=b6Zqg-IWJLMDPQa2"
 ---
 
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2025/12/20)](https://www.youtube.com/live/DO5T4G7fsKQ?si=b6Zqg-IWJLMDPQa2)
-
-Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”, bought it and played through it in one sitting. If you have the opportunity to do the same for any horror game, I highly recommend it. Horror trailers are notorious for putting some of their most tense moments leading to a spoiled jumpscare every so often. For my play-through, I was always anticipating the next event and it adds so much more to the tension. 
+Unmourned was a game completely off my radar. This is a rare occasion where I went in completely blind as I watched half the trailer and said, “yep, that looks good!”, bought it and played through it in one sitting. If you have the opportunity to do the same for any horror game, I highly recommend it. Horror trailers are notorious for putting some of their most tense moments leading to a spoiled jumpscare every so often. For my play-through, I was always anticipating the next event and it adds so much more to the tension.
 
 ## Overview
-You play as Jason, a new homeowner to a house that has some dark secrets. The first scene gives you a front row seat into those exact secrets and it's some of the most horrific acts you can think of. The story could have been more intertwined. Jason's story seemed to have nothing to do with the original family aside from being an unlucky third party who happened to purchase a haunted house. It probably would've tied the whole thing together nicely if he had some stake in the story, like was a distant relative or something similar. 
+You play as Jason, a new homeowner to a house that has some dark secrets. The first scene gives you a front row seat into those exact secrets and it's some of the most horrific acts you can think of. The story could have been more intertwined. Jason's story seemed to have nothing to do with the original family aside from being an unlucky third party who happened to purchase a haunted house. It probably would've tied the whole thing together nicely if he had some stake in the story, like was a distant relative or something similar.
 
 ## Gameplay & Mechanics
 The game remains consistent for ¾, but then switches completely for the final act. It's pretty jarring you may find yourself wondering if you're suddenly playing an entirely different game. This isn't only because the setting and characters change, but some of the game mechanics change while others are abandoned entirely. It's unfortunate, because you may be taken out of the game for this section and might find that it's starting to drag out a little too much.
@@ -33,10 +34,10 @@ Unmourned has an insanity meter that is unfortunately largely forgettable. There
 The game progresses in a linear fashion with some frustration points where the objective is left empty and you're left wandering trying to trigger the next event to progress. No one wants excessive hand holding, but there are definitely moments throughout the game that feel a touch aimless. A good example is one of the first objectives. You're prompted to find a key to the basement upstairs. Here's a spoiler you're going to want… <span class="spoiler">it's in a drawer in one of the hallways.</span> The reason it's frustrating is there's zero direction from the objective such as “<span class="spoiler">it's in a drawer</span>”, so you end up searching the many table surfaces, the closets, baskets, shelves, and the 20+ empty drawers. Not ideal for an objective as simple as “find the key”. This type of frustration happens a couple times throughout the game where you end up a bit lost, wishing for the objective to at least point you in the more targeted direction.
 
 ## Story & Narrative
-The scares are more than sufficient for any horror fan. It's worth mentioning again, going in completely blind will keep you on your toes pretty much the entire game. A few moments in the game are sure to give you goosebumps, with some being quite subtle and others being right in your face. There were some very tense moments and the ghost chases were something that other games should take note of (looking at you Phasmophobia) as each ghost had their own personality. Some of the creepy encounters are a little more subtle and if you're not really paying attention, you might miss it. It's great when horror games do this because it serves as a reminder that there's a payoff for being mindful. 
+The scares are more than sufficient for any horror fan. It's worth mentioning again, going in completely blind will keep you on your toes pretty much the entire game. A few moments in the game are sure to give you goosebumps, with some being quite subtle and others being right in your face. There were some very tense moments and the ghost chases were something that other games should take note of (looking at you Phasmophobia) as each ghost had their own personality. Some of the creepy encounters are a little more subtle and if you're not really paying attention, you might miss it. It's great when horror games do this because it serves as a reminder that there's a payoff for being mindful.
 
 ## Experience & Atmosphere
-The settings/locations ranged from claustrophobic tight air vents, to opulent mansions, to medieval churches and towns, to an ethereal void. Some of the visuals are stunning and truly surreal. The game jumps between reality and nightmares fairly often so there are scenes that do a great job playing into that. The house Jason bought feels pretty big, particularly for a bachelor. There are some time jumps that show the previous content and design of the house that's pretty interesting to see. At one point you'll end up at a concert hall that is particularly well designed. 
+The settings/locations ranged from claustrophobic tight air vents, to opulent mansions, to medieval churches and towns, to an ethereal void. Some of the visuals are stunning and truly surreal. The game jumps between reality and nightmares fairly often so there are scenes that do a great job playing into that. The house Jason bought feels pretty big, particularly for a bachelor. There are some time jumps that show the previous content and design of the house that's pretty interesting to see. At one point you'll end up at a concert hall that is particularly well designed.
 
 Graphics are nothing to write home about for the time of release in 2025. That's not to say they're bad in any way, they're just not groundbreaking. And that's alright because regardless of your computer setup, you should be able to crank up the settings and enjoy the game to its fullest potential. With prices for upgrades of a PC nowadays, we might be in for more games to scale back a bit on the recommended requirements. The models and props in the game were definitely well crafted… pair that with the level design and you'll see that's how this game really shines through.
 

@@ -1,6 +1,6 @@
 ---
 date: 2025-10-18
-tags: [stalker, retro, christmas, indie]
+tags: [stalker, christmas, house, walking-sim, indie]
 layout: post
 author: Xy
 type: Review
@@ -10,15 +10,16 @@ game-release-date: 2016-12-28
 platforms:
     Steam: "https://store.steampowered.com/app/568090/Tattletail/"
 title: Tattletail
+developer: "Waygetter Electronics"
 description: You might look at a game like Tattletail and think there’s nothing to it. On the surface, it’s a cute, retro-styled horror game riffing on the old Furby craze from the late 90s...
 image: 'images/posts/2025-10-18-review-tattletail/hero.webp'
 readtime: 4 min read
 featured: false
+score: 4.5
+broadcasts:
+    - date: 2025/11/18
+      url: "https://www.youtube.com/live/Qo1xtalR4kk?si=NEgqg04dZ4jY8YWP"
 ---
-
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2025/11/18)](https://www.youtube.com/live/Qo1xtalR4kk?si=NEgqg04dZ4jY8YWP)
 
 You might look at a game like **Tattletail** and think there’s nothing to it. On the surface, it’s a cute, retro-styled horror game riffing on the old Furby craze from the late 90s. But beneath that neon plastic smile is a dark, surprisingly sinister underbelly—packed with Easter eggs… both the narrative kind and the literal kind.
 
@@ -61,7 +62,6 @@ It’s simple, but it builds tension incredibly well.
 ---
 
 ## Gameplay & Mechanics  
-*(Systems, Flow, Tension, Challenge)*
 
 Tattletail’s gameplay is deliberately straightforward. Movement is standard WASD, shift to run (and make noise), a mostly pointless jump, and an interaction button that handles everything from feeding to grooming to picking up objects.
 

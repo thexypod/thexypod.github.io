@@ -1,0 +1,134 @@
+- tag: 2026
+  description: The year in which the news or review takes place (when relevant)
+
+- tag: aaa
+  description: The game was developed or published by a major studio
+
+- tag: DLC
+  description: The post contains information regarding downloadable content
+
+- tag: DbD
+  description: Dead By Daylight
+
+- tag: alien
+  description: The game features lifeforms from outer space
+
+- tag: animated
+  description: The game has a focus on hand drawn or painted visuals as a style or setting
+
+- tag: announcement
+  description: The post is regarding a formal statement about the site
+
+- tag: asymmetrical
+  description: A multiplayer experience where different teams or players have vastly different abilities, goals, and roles, usually pitting a powerful killer against a small group of vulnerable survivors trying to escape or complete objectives
+
+- tag: awards
+  description: The post contains information about an award given
+
+- tag: christmas
+  description: The game's plot takes place around Christmas time or the holiday season
+
+- tag: classic
+  description: The game has been judged over a period of time to be of the highest quality and outstanding of its kind
+
+- tag: computer
+  description: The game has a heavy focus on computers or technology
+
+- tag: dark
+  description: The game features darker themes or tones than most, especially for horror games
+
+- tag: female-protagonist
+  description: The game’s story is told from the perspective of a female character
+
+- tag: forest
+  description: The game's plot relies heavily on the setting of a forest
+
+- tag: ghosts
+  description: The game features ghosts as a central theme
+
+- tag: grotesque
+  description: The game features elements that are comically or repulsively ugly or distorted
+
+- tag: haunting
+  description: The game contains elements of hunting or being haunted by ghosts
+
+- tag: house
+  description: The game's plot relies heavily on the setting of a single house
+
+- tag: indie
+  description: The game has been developed by an independent developer and publisher
+
+- tag: jumpscare
+  description: The game heavily features sudden or unexpected events, often accompanied by loud or jarring sounds intended to startle the player
+
+- tag: list
+  description: The post presents a curated collection of games or elements centered around a specific theme or topic
+
+- tag: multiplayer
+  description: The game is designed for or involves several players
+
+- tag: opinion
+  description: The post contains personal opinion that may differ from or expand upon the news itself
+
+- tag: paranormal
+  description: The game features supernatural phenomena that cannot be explained by science, such as ghosts, psychic events, or otherworldly forces
+
+- tag: platformer
+  description: The game is played from a side-on perspective where the player jumps and navigates platforms, similar to classic titles like Mario or Sonic
+
+- tag: psychological
+  description: The game focuses on mental distress, perception, or emotional manipulation rather than overt physical threats
+
+- tag: puzzle
+  description: The game places a strong emphasis on solving puzzles to progress
+
+- tag: retro
+  description: The game was originally released during the early generations of video game hardware and reflects the design conventions of its era
+
+- tag: retro-inspired
+  description: The game intentionally mimics the visual style, mechanics, or limitations of older games or hardware
+
+- tag: sandbox
+  description: The game allows players to explore and interact freely with systems or environments with minimal linear restrictions
+
+- tag: sanity
+  description: The game features mechanics or narrative elements related to mental stability, hallucinations, or psychological degradation
+
+- tag: sewer
+  description: The game's plot or gameplay takes place largely within sewer or underground drainage environments
+
+- tag: silent-hill
+  description: The post pertains to the Silent Hill video game franchise or games heavily inspired by it
+
+- tag: stalker
+  description: The game features a persistent enemy or presence that actively hunts or follows the player
+
+- tag: stealth
+  description: The game emphasizes avoiding detection through hiding, quiet movement, or strategic positioning
+
+- tag: steam
+  description: The game or content discussed is available on or directly related to the Steam platform
+
+- tag: stylized
+  description: The game uses a deliberately exaggerated or non-realistic visual art style
+
+- tag: surreal
+  description: The game features dreamlike, illogical, or distorted imagery and events
+
+- tag: survival
+  description: The game emphasizes resource management, vulnerability, and staying alive against overwhelming odds
+
+- tag: third-person
+  description: The game is played from a camera perspective positioned outside and behind the player character
+
+- tag: upcoming
+  description: The post concerns a game that has been announced but not yet released at the time of the post
+
+- tag: walking-sim
+  description: The game focuses primarily on exploration and narrative with minimal traditional gameplay mechanics
+
+- tag: witch
+  description: The game features witches, witchcraft, or occult practices as a central theme
+
+- tag: zombie
+  description: The game features zombies or undead creatures as a primary enemy or theme

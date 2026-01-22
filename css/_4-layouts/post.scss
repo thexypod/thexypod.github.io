@@ -2,7 +2,6 @@
 .post,
 .page {
   position: relative;
-  max-width: 760px;
   margin: 0 auto;
 }
 
@@ -63,6 +62,7 @@
 
 .post__meta {
   line-height: 13px;
+  margin-bottom: 0;
 
   .post__date,
   .post__minutes {
@@ -91,18 +91,22 @@
 }
 
 .post__meta-title {
+  font-weight: 900;
   font-size: 1rem;
   margin-bottom: 0;
 }
 
 .post__meta-info {
-  list-style: none;
-  margin: 0;
-  margin-bottom: 1rem;
-  display: flex;
-  flex-direction: row;
-  & li:not(:first-child) {
-    margin-left: 1rem;
+  margin: 0.5rem 0 1rem 0;
+  & ul {
+    font-weight: 500;
+    list-style: none;
+    margin: 0.5rem 0 1rem 0;
+    display: flex;
+    flex-direction: row;
+    & li:not(:first-child) {
+      margin-left: 1rem;
+    }
   }
 }
 
@@ -122,6 +126,7 @@
 
 .post-tags {
   .post__tag {
+    display: inline-block;
     padding: 4px 8px;
     margin: 2px 0;
     font-size: 12px;
@@ -178,12 +183,14 @@
 
 .post__content,
 .page__content {
+  max-width: 760px;
+  margin: 0 auto;
   color: $gray;
 
   a {
-    border-bottom: 2px solid rgba($text-color, .1);
+    border-bottom: 2px solid rgba($brand-color, .75);
     &:hover {
-      border-color: $brand-color;
+      border-color: $white;
       color: $text-color;
       text-decoration: none;
     }
@@ -199,13 +206,17 @@
     pointer-events: none;
     user-select: none;
   }
+}
 
-  .note, .tip, .important, .warning, .caution {
+  .note, .tip, .important, .warning, .caution, .broadcast {
+    margin: 0 auto;
+    max-width: 760px;
     position: relative;
     padding: 20px 0 20px 52px;
     border-radius: 4px;
     color: $white;
     background: $blue-dark;
+    margin-bottom: 32px;
 
     &::after {
       content: "\1F4A1";
@@ -216,9 +227,23 @@
     }
   }
 
+  .broadcast {
+    border-left: 3px solid $callout-broadcast;
+    background: rgba($callout-broadcast, .1);
+    &::after {
+      content: "📺";
+    }
+    &__list {
+      margin-bottom: 0;
+    };
+  }
+
   .note {
     border-left: 3px solid $callout-note;
     background: rgba($callout-note, .1);
+    &::after {
+      content: "🗒️";
+    }
   }
 
   .tip {
@@ -239,8 +264,10 @@
   .caution {
     border-left: 3px solid $callout-caution;
     background: rgba($callout-caution, .1);
+    &::after {
+      content: "⚠️";
+    }
   }
-}
 
 /* Post Share */
 .post__share {
@@ -307,6 +334,8 @@
 
 /* Post Navigation */
 .post__navigation {
+  max-width: 760px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   margin-bottom: 64px;
@@ -484,6 +513,8 @@
 // other
 
 .curator-link {
+  max-width: 760px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -499,9 +530,6 @@
       margin-left: 2rem;
     }
   }
-  h3 {
-    margin: 1rem 0 0 0;
-  }
   p {
     font-size: 1rem;
     font-weight: 400;
@@ -511,6 +539,10 @@
       margin-top: 0;
       text-align: left;
     }
+  }
+  &__title {
+    font-weight: 900 !important;
+    margin: 1rem 0 0 0;
   }
 
   img {

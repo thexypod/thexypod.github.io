@@ -1,6 +1,6 @@
 ---
 date: 2026-01-05
-tags: [alien, walking-sim, indie]
+tags: [alien, walking-sim, stealth, indie]
 layout: post
 author: Xy
 type: Review
@@ -13,17 +13,19 @@ platforms:
     Playstation: "https://store.playstation.com/en-ca/product/UP3589-PPSA16892_00-0073295541029295"
     Xbox: "https://www.xbox.com/en-CA/games/store/greyhill-incident-abducted-edition/9ngp9m4bpzz9"
 title: Greyhill Incident
+developer: "Refugium Games"
 abbreviations:
     ex: example
 description: "You play as Ryan. The game starts with you chatting on the radio with a few of the other residents. It comes through that there are reports of something strange happening in Greyhill and you’re tasked with trying to find the cause."
 image: 'images/posts/2026-01-05-review-greyhill-incident/hero.webp'
 featured: false
+score: 1.5
+broadcasts:
+    - date: 2026/01/05
+      url: "https://www.youtube.com/watch?v=FlLOPR3HwdY"
+    - date: 2026/01/07
+      url: https://www.youtube.com/watch?v=6EGlUOTC_nQ
 ---
-
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2026/01/05)](https://www.youtube.com/watch?v=FlLOPR3HwdY)<br><br>
-[Livestream (2026/01/07)](https://www.youtube.com/watch?v=6EGlUOTC_nQ)
 
 I remember seeing the trailer for Greyhill Incident when it dropped and was instantly drawn to it because the subject matter hadn't really been seen in a horror game before. A horror game featuring aliens! How could you go wrong? Well, the core structure is there, and it offers some good… but with the good comes some… not so good. Let’s dive in. 
 

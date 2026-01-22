@@ -1,6 +1,6 @@
 ---
 date: 2026-01-03
-tags: [psychological, female-protagonist, silent-hill, awards, steam]
+tags: [psychological, female-protagonist, silent-hill, awards, third-person, steam]
 layout: post
 author: Xy
 type: News

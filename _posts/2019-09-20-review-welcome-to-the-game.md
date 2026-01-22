@@ -10,9 +10,11 @@ game-release-date: 2016-06-15
 platforms:
     Steam: "https://store.steampowered.com/app/485380/Welcome_to_the_Game/"
 title: Welcome To The Game
+developer: "Reflect Studios"
 description: I'm all for ambiguity in Horror games. This one misses the mark by not clearly explaining what the rules actually are. You really need to figure out pretty much all of the mechanics on your own...
 image: 'images/posts/2019-09-20-review-welcome-to-the-game/hero.webp'
 featured: false
+score: 1.5
 ---
 
 Having just finished a 4.5 hour unsuccessful session of the game, I'm going to have to pass. I'm all for ambiguity in Horror games. This one misses the mark by not clearly explaining what the rules actually are. You really need to figure out pretty much all of the mechanics on your own. Hear a sound... check the front door? Turn off the lights? For how long? Who knows? You encounter the deaths scenes without knowing why they happened. I had 3 deaths in a row without having the slightest clue what I did wrong... I followed the seemingly arbitrary rules to a T. The breaking point for me was having the 2 "killers" attack me at one time. The mechanics don't allow for you to deal with it, so it's just a bad mechanic that forces you to start at the beginning again just when you thought you had made some real progress.

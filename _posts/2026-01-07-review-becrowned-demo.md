@@ -1,6 +1,6 @@
 ---
 date: 2026-01-07
-tags: [retro-inspired, grotesque, survival, inde]
+tags: [retro-inspired, grotesque, survival, third-person, indie]
 layout: post
 author: Xy
 type: Review
@@ -11,20 +11,27 @@ game-release-date: TBA
 platforms:
     Steam: "https://store.steampowered.com/app/2266890/BECROWNED/"
 title: Becrowned (Demo)
+developer: "13th Street Studio"
 abbreviations:
-    ex: example
-description: "Since this was just a demo, consider this a demo review. I’m not going to get in too deep here, but the game is shaping up to become one of my most anticipated games coming out in the coming months."
+    PS2: Playstation 2
+    NPCs: Non playable characters
+description: "Since this was just a demo, consider this a mini review. I’m not going to get in too deep here, but the game is shaping up to become one of my most anticipated games coming out in the coming months."
 image: 'images/posts/2026-01-07-review-becrowned-demo/hero.webp'
 featured: true
+score: 5
+broadcasts:
+  - date: 2026/01/07
+    url: https://www.youtube.com/live/6EGlUOTC_nQ?si=Fvmsq1E-fZZ--Pwi&t=5101
 ---
 
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2026/01/07)](https://www.youtube.com/live/6EGlUOTC_nQ?si=Fvmsq1E-fZZ--Pwi&t=5101)
+{% if page.abbreviations %}
+{: .tip}
+This review contains abbreviations<br>{% for abbr in page.abbreviations %}{{ abbr[0] }} - {{ abbr[1] }}<br>{% endfor %}
+{% endif %}
 
 Having just finished my playthrough of [Greyhill Incident](https://thexypod.com/review-greyhill-incident), I had some extra time to spare on stream, so I figured a demo would be a good choice. I had featured Becrowned in my video and blog post [66 Upcoming Horror Titles in 2026 & Beyond](https://youtu.be/AiGjTMYBJQs?si=eXJf9uQUqPLT_uQF), and it instantly caught my eye. It doesn’t take much to draw parallels to retro, PS2 era games like Silent Hill and Resident Evil, so it was right in the sweet spot to pique my interest. 
 
-> Since this was just a demo, consider this a demo review. I’m not going to get in too deep here, but the game is shaping up to become one of my most anticipated games coming out in the coming months. 
+> Since this was just a demo, consider this a mini review. I’m not going to get in too deep here, but the game is shaping up to become one of my most anticipated games coming out in the coming months. 
 
 The demo begins with you taking control of the main character, Richard Torrance, which has got to be a nod to The Shining. He awakes from a nap while on a camping vacation with his wife, Vicky. The first thing he notices is that not only is Vicky missing, but everyone who was initially vacationing in the camp is also missing. In his efforts to piece together what happened, Richard begins his journey.
 

@@ -13,9 +13,11 @@ platforms:
     Xbox: "https://www.xbox.com/en-CA/games/store/bendy-and-the-ink-machine/BTQ96QTQ58F3"
     Nintendo: "https://www.nintendo.com/en-ca/store/products/bendy-and-the-ink-machine-switch/"
 title: Bendy And The Ink Machine
+developer: "Joey Drew Studios"
 description: When I first started playing my initial thought was that it looks like a low key Borderlands style walking sim. The further I got you really start to appreciate the charm of the art style...
 image: 'images/posts/2019-08-23-review-bendy-and-the-ink-machine/hero.webp'
 featured: false
+score: 4.5
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 date: 2019-11-19
-tags: [forest, paranormal, witch, indie]
+tags: [forest, paranormal, psychological, walking-sim, witch, indie]
 layout: post
 author: Xy
 type: Review
@@ -13,9 +13,11 @@ platforms:
     Xbox: "https://www.xbox.com/en-US/games/store/blair-witch/9ng7lg421v0q"
     Nintendo: "https://www.nintendo.com/en-ca/store/products/blair-witch-switch/"
 title: Blair Witch
+developer: "Bloober Team SA"
 description: Let me start out this review by saying I am a Blair Witch fan through and through. I loved the movies, I took part in the ARG that was initially released. I was excited for this game...
 image: 'images/posts/2019-11-19-review-blair-witch/hero.webp'
 featured: false
+score: 3.5
 ---
 
 

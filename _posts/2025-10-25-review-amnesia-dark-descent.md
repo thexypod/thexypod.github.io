@@ -1,6 +1,6 @@
 ---
 date: 2025-10-25
-tags: [stalker, classic, psychological, indie]
+tags: [stalker, classic, psychological, walking-sim, indie]
 layout: post
 author: Xy
 type: Review
@@ -13,15 +13,17 @@ platforms:
     Xbox: "https://www.xbox.com/en-CA/games/store/amnesia-collection/bv02tbl15dx3"
     Nintendo: "https://www.nintendo.com/us/store/products/amnesia-collection-switch/"
 title: "Amnesia: The Dark Descent"
+developer: "Frictional Games"
 description: If you're at all into horror, you have likely already heard of amnesia the dark decent. It's sold over 1 million copies since it's release and has since been released on multiple platforms...
 image: 'images/posts/2025-10-25-review-amnesia-dark-descent/hero.webp'
 featured: false
+score: 5.5
+broadcasts:
+    - date: 2025/10/19
+      url: "https://www.youtube.com/live/qryy-g9xdhQ?si=QwXu1zkBgmUjhQ2X"
+    - date: 2025/10/21
+      url: "https://www.youtube.com/live/tjzPcvn3Y9M?si=16AWSnP6K6lvR05n"
 ---
-
-{: .note }
-This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:<br><br>
-[Livestream (2025/10/19)](https://www.youtube.com/live/qryy-g9xdhQ?si=QwXu1zkBgmUjhQ2X)<br><br>
-[Livestream (2025/10/21)](https://www.youtube.com/live/tjzPcvn3Y9M?si=16AWSnP6K6lvR05n)
 
 
 Is amnesia the dark decent still worth playing in 2026? I mean, it's a 16 year old game at this point, so it's already able to get a driver's license and is only 2 years off from seeing the latest rated R horror movie in theater. Released in September of 2010, and developed by Fictional Games, this title has been the backdrop of many content creators as viewers flocked to their channels to see the scares. And it's got the reviews to back it up. It's currently sitting at a overwhelmingly positive place on the overall reviews, but the recent reviews have dropped down to "mostly positive"... What's happened with this game?

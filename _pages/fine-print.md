@@ -37,6 +37,8 @@ Stock photos for this website provided by [Pexels](https://www.pexels.com/). Ori
 
 [chepté cormani](https://www.pexels.com/@joenibraw/)
 
+[Jay Ngai](https://www.pexels.com/@jayngai/)
+
 ## Music 
 Music from streams and videos are from **Karl Casey** and **White Bat Audio**. 
 

@@ -1,0 +1,12 @@
+<aside class="broadcast" aria-label="Related livestreams">
+    This review is drawn from a full livestreamed playthrough of the game. If you’d like to see the experience as it happened, you can watch the original broadcast here:
+    <ul class="broadcast__list">
+        {% for b in include.broadcasts %}
+        <li>
+            <a href="{{ b.url }}">
+            Livestream ({{ b.date | date: "%B %-d, %Y" }})
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</aside>

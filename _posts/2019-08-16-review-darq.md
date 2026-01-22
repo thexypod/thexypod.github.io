@@ -13,9 +13,14 @@ platforms:
     Xbox: "https://www.xbox.com/en-CA/games/store/darq-ultimate-edition/9PHT99P0SM47/0010"
     Nintendo: "https://www.nintendo.com/en-ca/store/products/darq-ultimate-edition-switch/"
 title: DARQ
+developer: "Unfold Games"
 description: Very reminiscent of Inside or Limbo! The mechanics are simple enough to understand and are introduced in a way that helps navigate the game throughout...
 image: 'images/posts/2018-08-16-review-darq/hero.webp'
 featured: false
+score: 5
+broadcasts:
+    - date: 2019/08/16
+      url: "https://www.youtube.com/watch?v=EuKiL_RpVTY"
 ---
 
 DARQ is a super atmospheric puzzle platformer horror!
