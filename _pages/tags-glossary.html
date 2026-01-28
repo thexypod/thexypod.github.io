@@ -4,29 +4,28 @@ title: Tags Glossary
 permalink: /glossary/
 image: '/images/hero/hero-glossary.webp'
 ---
+    <p>Because tags can be a little ambiguous at times, you can use this page as a reference to what the tags mean as they pertain to horror games or the posts within this site.</p>
 
-<p>Because tags can be a little ambiguous at times, you can use this page as a reference to what the tags mean as they pertain to horror games or the posts within this site.</p>
+    <div class="table-container">
+        <table>
+            <tr>
+                <th>Tag</th>
+                <th>Meaning</th>
+            </tr>
 
-<div class="table-container">
-    <table>
-        <tr>
-            <th>Tag</th>
-            <th>Meaning</th>
-        </tr>
+            {% assign tag_names = site.data.tags | map: "tag" | sort %}
 
-        {% assign tag_names = site.data.tags | map: "tag" | sort %}
+            {% for tag_name in tag_names %}
+            {% assign tag_item = site.data.tags | where: "tag", tag_name | first %}
+            <tr>
+                <td class="table-tag">
+                <a href="/tags/?tag={{ tag_name }}">
+                    {{ tag_name }}
+                </a>
+                </td>
+                <td>{{ tag_item.description }}</td>
+            </tr>
+            {% endfor %}
 
-        {% for tag_name in tag_names %}
-        {% assign tag_item = site.data.tags | where: "tag", tag_name | first %}
-        <tr>
-            <td class="table-tag">
-            <a href="/tags/?tag={{ tag_name }}">
-                {{ tag_name }}
-            </a>
-            </td>
-            <td>{{ tag_item.description }}</td>
-        </tr>
-        {% endfor %}
-
-    </table>
-</div>
+        </table>
+    </div>
