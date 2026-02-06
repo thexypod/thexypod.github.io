@@ -1,6 +1,6 @@
 ---
 date: 2026-01-20
-tags: [psychological, female-protagonist, indie, grotestque, demonic]
+tags: [psychological, female-protagonist, indie, grotesque, demonic]
 layout: post
 author: Xy
 type: News

@@ -132,3 +132,18 @@
 
 - tag: zombie
   description: The game features zombies or undead creatures as a primary enemy or theme
+
+- tag: cult
+  description: The game features cults or cult-like groups, beliefs, or rituals as a central theme or narrative element
+
+- tag: comic-book
+  description: The game features a comic book style and/or is based off a comic book
+
+- tag: isometric
+  description: The game uses an angled, fixed perspective that shows environments and characters in a pseudo-3D view from above
+
+- tag: 80s
+  description: The game is set in or heavily inspired by the culture, aesthetics, or themes of the 1980s
+
+- tag: crafting
+  description: The game allows players to create or improve items, equipment, or resources through crafting systems
