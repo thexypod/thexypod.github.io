@@ -1,6 +1,6 @@
 ---
 date: 2025-10-25
-tags: [stalker, classic, psychological, walking-sim, indie]
+tags: [stalker, classic, psychological, walking-sim, indie, amnesia]
 layout: post
 author: Xy
 type: Review

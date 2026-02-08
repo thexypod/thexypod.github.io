@@ -1,6 +1,6 @@
 ---
 date: 2026-01-24
-tags: [psychological, survival, narrative-driven, atmospheric, stealth, walking-sim, stalker, indie]
+tags: [psychological, survival, narrative-driven, atmospheric, stealth, walking-sim, stalker, indie, amnesia]
 layout: post
 author: Xy
 type: Review
