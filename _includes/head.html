@@ -8,20 +8,17 @@
 
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-  <!-- Favicons -->
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
-  <link rel="shortcut icon" href="{{ '/images/favicon.ico' | relative_url }}">
-  <link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
-  <link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
+<!-- Favicons -->
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}">
+<link rel="icon" type="image/png" sizes="48x48" href="{{ '/images/favicon-48x48.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="96x96" href="{{ '/images/favicon-96x96.png' | relative_url }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}">
+<link rel="manifest" href="{{ '/site.webmanifest' | relative_url }}">
 
   {% if page.type == "Review" %}
     {% include schema-review.html %}
   {% endif %}
-
-
-
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
