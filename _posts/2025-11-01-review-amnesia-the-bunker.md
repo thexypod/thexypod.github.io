@@ -17,7 +17,7 @@ developer: "Frictional Games"
 abbreviations:
     TDD: "Amnesia: The Dark Decent"
     RB: "Amnesia: Rebirth"
-description: "The Bunker has you in the place of Henri Clément who is a French WW1 soldier. In his efforts to find his friend, Augustin Lambert, you get knocked out. The injury has caused Henri amnesia (get it?) and he awakens to learn that he’s now trapped in the bunker and that it’s inhabited by a menacing beast that is stalking your every move"
+description: "The Bunker has you in the place of Henri Clément who awakens to learn that he’s now trapped in the bunker and that it’s inhabited by a menacing beast that is stalking your every move..."
 image: 'images/posts/2025-11-01-review-amnesia-the-bunker/hero.webp'
 featured: false
 broadcasts:
